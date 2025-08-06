@@ -37,19 +37,16 @@ This project is an Excel VBA-based tool designed to automate the process of invo
 - Outlook Automation for email integration
 
 ### 🖥️ Repository Structure
-graphql
-Copy
-Edit
-Invoice_Generator.xlsm     
- Main Excel file with VBA macros
-/VBA Code                   
--  Contains VBA modules & UserForms
-/PDF Invoices
--  Auto-generated PDF invoices
-/Excel Invoices
-- auto-generated Excel invoice copies
-/README.md
--  Project documentation
+Invoice_Generator.xlsm       # Main Excel file with VBA macros
+
+/VBA Code                    # Contains VBA modules & UserForms
+
+/PDF Invoices                # Auto-generated PDF invoices
+
+/Excel Invoices              # Auto-generated Excel invoice copies
+
+/README.md                   # Project documentation
+
   
 ### 🔍 Workflow
 Open Invoice_Generator.xlsm and enable macros.
