@@ -58,7 +58,7 @@ Optionally, click "Send Email" to draft an email with the invoice attached.
 
 Track invoice status and revenue insights from the Dashboard tab.
 
-📌 Benefits
+### 📌 Benefits
 
 ✅ Reduces invoice processing time by 80%.
 
