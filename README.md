@@ -1,7 +1,7 @@
 # 📄 Automated Invoice System (Excel VBA Project)
 This project is an Excel VBA-based tool designed to automate the process of invoice generation, customer management, PDF export, and email automation. It simplifies billing operations by reducing manual effort and improving accuracy through integrated VBA macros and UserForms.
 
-📁 Project Overview
+### 📁 Project Overview
 - The Automated Invoice System enables users to:
 
 - Generate professional invoices automatically within Excel.
@@ -14,7 +14,7 @@ This project is an Excel VBA-based tool designed to automate the process of invo
 
 - Monitor invoice status and revenue trends using an integrated dashboard.
 
-🔑 Key Features
+### 🔑 Key Features
 🖋️ Automated Invoice Creation – Auto-populates invoices from customer and product data.
 
 🗂️ Customer Database Management – UserForms for quick customer data entry and updates.
@@ -27,7 +27,7 @@ This project is an Excel VBA-based tool designed to automate the process of invo
 
 ✅ Error Handling & Validations – Prevents duplicate or incorrect entries.
 
-🛠 Tools & Technologies Used
+### 🛠 Tools & Technologies Used
 - Microsoft Excel (XLSM - Macros Enabled)
 
 - Visual Basic for Applications (VBA)
@@ -36,7 +36,7 @@ This project is an Excel VBA-based tool designed to automate the process of invo
 
 - Outlook Automation for email integration
 
-🖥️ Repository Structure
+### 🖥️ Repository Structure
 graphql
 Copy
 Edit
@@ -59,6 +59,7 @@ Optionally, click "Send Email" to draft an email with the invoice attached.
 Track invoice status and revenue insights from the Dashboard tab.
 
 📌 Benefits
+
 ✅ Reduces invoice processing time by 80%.
 
 ✅ Eliminates repetitive manual work with VBA automation.
@@ -67,9 +68,9 @@ Track invoice status and revenue insights from the Dashboard tab.
 
 ✅ Beginner-friendly and easily customizable for small businesses or freelancers.
 
-🔗 Future Enhancements
+### 🔗 Future Enhancements
 - Add inventory and stock management integration.
 
 - Automate payment reminders for overdue invoices.
 
--Include multi-company invoice generation support.
+- Include multi-company invoice generation support.
