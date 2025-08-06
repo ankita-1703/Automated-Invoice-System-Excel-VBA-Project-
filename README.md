@@ -28,13 +28,13 @@ This project is an Excel VBA-based tool designed to automate the process of invo
 ✅ Error Handling & Validations – Prevents duplicate or incorrect entries.
 
 🛠 Tools & Technologies Used
-Microsoft Excel (XLSM - Macros Enabled)
+- Microsoft Excel (XLSM - Macros Enabled)
 
-Visual Basic for Applications (VBA)
+- Visual Basic for Applications (VBA)
 
-UserForms for interactive data entry
+- UserForms for interactive data entry
 
-Outlook Automation for email integration
+- Outlook Automation for email integration
 
 🖥️ Repository Structure
 graphql
@@ -60,13 +60,16 @@ Track invoice status and revenue insights from the Dashboard tab.
 
 📌 Benefits
 ✅ Reduces invoice processing time by 80%.
+
 ✅ Eliminates repetitive manual work with VBA automation.
+
 ✅ Centralizes customer, invoice, and payment tracking in one Excel file.
+
 ✅ Beginner-friendly and easily customizable for small businesses or freelancers.
 
 🔗 Future Enhancements
-Add inventory and stock management integration.
+- Add inventory and stock management integration.
 
-Automate payment reminders for overdue invoices.
+- Automate payment reminders for overdue invoices.
 
-Include multi-company invoice generation support.
+-Include multi-company invoice generation support.
