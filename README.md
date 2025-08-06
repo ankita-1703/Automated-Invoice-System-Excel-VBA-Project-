@@ -1,18 +1,18 @@
-📄 Automated Invoice System (Excel VBA Project)
+# 📄 Automated Invoice System (Excel VBA Project)
 This project is an Excel VBA-based tool designed to automate the process of invoice generation, customer management, PDF export, and email automation. It simplifies billing operations by reducing manual effort and improving accuracy through integrated VBA macros and UserForms.
 
 📁 Project Overview
-The Automated Invoice System enables users to:
+- The Automated Invoice System enables users to:
 
-Generate professional invoices automatically within Excel.
+- Generate professional invoices automatically within Excel.
 
-Maintain a customer master database with easy add/edit/delete options.
+- Maintain a customer master database with easy add/edit/delete options.
 
-Export invoices as PDF and Excel files with one click.
+- Export invoices as PDF and Excel files with one click.
 
-Send invoices directly via Outlook email automation.
+- Send invoices directly via Outlook email automation.
 
-Monitor invoice status and revenue trends using an integrated dashboard.
+- Monitor invoice status and revenue trends using an integrated dashboard.
 
 🔑 Key Features
 🖋️ Automated Invoice Creation – Auto-populates invoices from customer and product data.
